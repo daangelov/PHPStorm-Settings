@@ -4,7 +4,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="error_log" value="file_put_contents(&#10;    '/tmp/debug',&#10;    \Doctrine\Common\Util\Debug::dump('', 4, true, false),&#10;    FILE_APPEND&#10;);" toReformat="false" toShortenFQNames="true">
+  <template name="error_log" value="file_put_contents(&#10;    '/tmp/debug',&#10;    \Doctrine\Common\Util\Debug::dump('', 4, true, false),&#10;    FILE_APPEND&#10;);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
