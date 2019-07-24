@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="dump" value="\Doctrine\Common\Util\Debug::dump();" description="\Doctrine\Common\Util\Debug::dump();" toReformat="true" toShortenFQNames="true">
+  <template name="dump" value="\Doctrine\Common\Util\Debug::dump();die();" description="\Doctrine\Common\Util\Debug::dump();" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
