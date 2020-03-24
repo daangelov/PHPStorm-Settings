@@ -1,0 +1,14 @@
+<templateSet group="PHP">
+  <template name="ff" value="file_put_contents(&#10;    'C:/php/php-7.2.28/logs/console.log',&#10;    $DATA$,&#10;    FILE_APPEND&#10;);" description="pseudo console" toReformat="false" toShortenFQNames="true">
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dump" value="\Doctrine\Common\Util\Debug::dump($VALUE$, 5, false, true);&#10;exit;" description="dump value" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
