@@ -1,8 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="CloseContent" />
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="shift alt space" />
+    <keyboard-shortcut first-keystroke="alt space" />
   </action>
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -13,6 +13,9 @@
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
@@ -25,8 +28,7 @@
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="ShowIntentionActions">
-    <keyboard-shortcut first-keystroke="alt enter" />
-    <keyboard-shortcut first-keystroke="meta enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="ctrl meta k" />
