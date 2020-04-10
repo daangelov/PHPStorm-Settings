@@ -1,11 +1,11 @@
 <templateSet group="PHP">
-  <template name="ff" value="file_put_contents(&#10;    '/tmp/debug',&#10;    \Doctrine\Common\Util\Debug::dump($VALUE$, 5, false, false),&#10;    FILE_APPEND&#10;);" description="pseudo console" toReformat="false" toShortenFQNames="true">
+  <template name="ff" value="file_put_contents(&#10;    '/tmp/debug',&#10;    print_r($VALUE$ . PHP_EOL, true),&#10;    FILE_APPEND&#10;);" description="pseudo console" toReformat="false" toShortenFQNames="true">
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="dump" value="\Doctrine\Common\Util\Debug::dump($VALUE$, 5, false, true);&#10;exit;" description="dump value" toReformat="false" toShortenFQNames="true">
+  <template name="dump" value="var_dump($VALUE$);&#10;exit;" description="dump value" toReformat="false" toShortenFQNames="true">
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
