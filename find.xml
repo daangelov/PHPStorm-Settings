@@ -14,7 +14,7 @@
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.twig</mask>
+    <mask>*.js</mask>
   </component>
 </application>
