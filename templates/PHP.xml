@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="ff" value="file_put_contents(&#10;    '/tmp/debug',&#10;    print_r([$VALUE$], true) . PHP_EOL,&#10;    FILE_APPEND&#10;);" description="pseudo console" toReformat="false" toShortenFQNames="true">
+  <template name="ff" value="file_put_contents(&#10;    '/tmp/debug',&#10;    var_export($VALUE$, true) . PHP_EOL,&#10;    FILE_APPEND&#10;);" description="pseudo console" toReformat="false" toShortenFQNames="true">
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
