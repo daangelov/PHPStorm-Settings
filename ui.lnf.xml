@@ -1,7 +1,8 @@
 <application>
   <component name="UISettings">
-    <option name="EDITOR_TAB_LIMIT" value="40" />
+    <option name="EDITOR_TAB_LIMIT" value="30" />
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
