@@ -5,7 +5,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="dump" value="var_dump($VALUE$);&#10;exit;" description="dump value" toReformat="false" toShortenFQNames="true">
+  <template name="dump" value="\Doctrine\Common\Util\Debug::dump($VALUE$, 4, false, true);&#10;exit;" description="dump value" toReformat="false" toShortenFQNames="true">
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
