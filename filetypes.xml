@@ -2,8 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping ext="entitlements" type="PLAIN_TEXT" />
+      <mapping pattern="2.storyboard" type="PLAIN_TEXT" />
       <mapping ext="xcsettings" type="PLAIN_TEXT" />
+      <mapping ext="entitlements" type="PLAIN_TEXT" />
       <mapping pattern="index" type="Twig" />
     </extensionMap>
   </component>
