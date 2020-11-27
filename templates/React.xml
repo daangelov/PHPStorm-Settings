@@ -1,0 +1,8 @@
+<templateSet group="React">
+  <template name="crf" value="import React from &quot;react&quot;;&#10;import PropTypes from &quot;prop-types&quot;;&#10;&#10;$F$.propTypes = {&#10;&#10;}&#10;&#10;export default function $F$() {&#10;    return (&#10;        &lt;div&gt;&lt;/div&gt;  &#10;    );&#10;}" description="Create react functional component with propTypes" toReformat="false" toShortenFQNames="true">
+    <variable name="F" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
