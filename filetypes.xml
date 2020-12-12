@@ -1,11 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="2.storyboard" type="PLAIN_TEXT" />
       <mapping ext="xcsettings" type="PLAIN_TEXT" />
       <mapping ext="entitlements" type="PLAIN_TEXT" />
       <mapping pattern="index" type="Twig" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
