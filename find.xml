@@ -14,9 +14,9 @@
     <mask>*.ctp</mask>
     <mask>*.css</mask>
     <mask>*.png</mask>
-    <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
