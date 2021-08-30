@@ -5,9 +5,10 @@
   </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
-    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="PHPDOC_PARAM_SPACES_BETWEEN_TAG_AND_TYPE" value="4" />
+    <option name="PHPDOC_PARAM_SPACES_BETWEEN_TYPE_AND_NAME" value="4" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="BLANK_LINES_AFTER_OPENING_TAG" value="1" />
