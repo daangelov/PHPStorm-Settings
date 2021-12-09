@@ -5,6 +5,7 @@
       <mapping ext="m" type="AUTO_DETECTED" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="2.storyboard" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="jx" type="PLAIN_TEXT" />
