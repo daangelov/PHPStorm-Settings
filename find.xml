@@ -9,7 +9,6 @@
     <mask>*.scss</mask>
     <mask>*.jsx</mask>
     <mask>*.json</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -22,5 +21,6 @@
     <mask>*.inc</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
