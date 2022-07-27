@@ -18,10 +18,10 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>package.json</mask>
-    <mask>*.json</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.json</mask>
   </component>
 </application>
