@@ -9,7 +9,6 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="jx" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="xcsettings" type="PLAIN_TEXT" />
       <mapping ext="entitlements" type="PLAIN_TEXT" />
