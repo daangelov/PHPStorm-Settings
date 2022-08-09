@@ -20,8 +20,8 @@
     <mask>package.json</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
