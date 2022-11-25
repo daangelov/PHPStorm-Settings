@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="docker-entrypoint" type="AUTO_DETECTED" />
+      <mapping pattern="4f7cd1903e8b64bf137afe056ee2711381da958369522267a7d6366a43d0aa2b" type="AUTO_DETECTED" />
       <mapping ext="m" type="AUTO_DETECTED" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="2.storyboard" type="PLAIN_TEXT" />
